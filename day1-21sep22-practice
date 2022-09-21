@@ -1,0 +1,6 @@
+#problem-1 book - Let us python; writer-yashavant kanetkar; page no:37
+#Question [A](a)
+a,b=23,12 #assign some values on a and b
+print(a,b)
+a,b=b,a #code for swapping the values of variables a and b
+print(a,b)
